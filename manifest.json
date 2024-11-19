@@ -1,0 +1,23 @@
+{
+    "name":"dev apps",
+    "start_url":".",
+    "display":"greenday",
+    "theme_color":"#f8fcfa",
+    "background_color":"#f8fcfa",
+    "icons":[
+        {
+            "src":"icons/images.png",
+            "type":"image/png",
+            "sizes":"192x192"
+        },
+        {
+            "src":"icons/images.png",
+            "type":"image/png",
+            "sizes":"512x512",
+            "purpose":"maskable"
+        }
+    ]
+
+
+
+}
